@@ -6,8 +6,5 @@ env/
 *.zip
 *.rar
 
-# File teks (misalnya wordlist)
-*.txt
-
 # Cache Python
 __pycache__/
