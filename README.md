@@ -1,6 +1,6 @@
 # 🔐Brute Force ZIP Password Tool (Python)🔐
 
-Tools ini digunakan untuk **menguji kekuatan password file ZIP dan RAR** dengan metode brute force menggunakan wordlist.  
+Tools ini digunakan untuk **menguji kekuatan password file ZIP** dengan metode brute force menggunakan wordlist.  
 Cocok untuk keperluan edukasi, pelatihan cybersecurity, atau skripsi/praktikum keamanan informasi.
 
 ---
