@@ -30,7 +30,7 @@ def brute_force_zip(zip_file_path, wordlist_file_path):
     print("[-] Password tidak ditemukan di wordlist.")
 
 # ==================================
-#   Brute Force RAR Password Tool
+#   Brute Force ZIP Password Tool
 # ==================================
 if __name__ == "__main__":
     print("=== AES ZIP Password Brute Force Tool ===\n")
